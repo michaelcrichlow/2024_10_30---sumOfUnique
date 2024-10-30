@@ -14,6 +14,12 @@ def main() -> None:
     print(sumOfUnique([1, 2, 3, 4, 2, 1, 4, 7]))
     print(sumOfUnique([]))
     print(sumOfUnique([5, 2, 4, 5, 6, 2, 1, 6]))
+    
+	# OUTPUT:
+	# 3
+	# 10
+	# 0 
+	# 5 
 
 
 if __name__ == '__main__':
